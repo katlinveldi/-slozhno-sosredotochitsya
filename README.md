@@ -1,1 +1,1 @@
-repo- https://github.com/katlinveldi/slozhno-sosredotochitsya.git
+repo- https://github.com/katlinveldi/slozhno-sosredotochitsy
